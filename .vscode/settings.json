@@ -1,0 +1,14 @@
+{
+  "vsicons.associations.folders": [
+    { "icon": "blueprint", "extensions": ["rgui"], "format": "svg" },
+    { "icon": "tools", "extensions": ["runtime-extension"], "format": "svg" },
+    { "icon": "db", "extensions": ["core"], "format": "svg" }
+  ],
+  "vsicons.associations.files": [
+    { "icon": "sequelize", "extensions": ["component.ts"], "format": "svg" },
+    { "icon": "apib", "extensions": ["system.ts"], "format": "svg" },
+    { "icon": "bat", "extensions": ["script.js"], "format": "svg" },
+    { "icon": "config", "extensions": ["index.ts", "index.tsx"], "format": "svg", "filename": true },
+    { "icon": "rake", "extensions": ["model.ts", "model.tsx", "interface.ts", "interface.tsx"], "format": "svg" }
+  ]
+}
